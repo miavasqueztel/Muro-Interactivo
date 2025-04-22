@@ -1,0 +1,26 @@
+Mia Vasquez
+2022-2048
+
+
+# Muro Interactivo 🧱✨
+Una aplicación hecha con React + Firebase para compartir publicaciones de texto en un muro público.
+
+# Caracteristicas 
+- Ver todos los posts sin iniciar sesión
+- Crear cuenta con nombre, apellido, usuario y contraseña
+- Iniciar sesión con correo y clave
+- Publicar posts si estás autenticado
+- Interfaz linda con CSS clásico
+
+# Instalación
+
+1. Clona o descarga este repositorio
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+3. Ejecuta el proyecto:
+   ```bash
+   npm run dev
+   ```
+
