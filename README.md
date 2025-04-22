@@ -23,6 +23,6 @@ App hecha con React + Firebase para compartir publicaciones de texto en un muro 
    npm run dev
    ```
 
-[LOGIN.jpg](https://postimg.cc/p5YhXnDY)
-[LOLOGIN.jpg](https://postimg.cc/D4K4Tcbw)
+![LOLOGIN](https://i.postimg.cc/D0Sr1jvL/LOLOGIN.jpg)
+![LOGIN](https://i.postimg.cc/3Nzg1XN6/LOGIN.jpg)
 
