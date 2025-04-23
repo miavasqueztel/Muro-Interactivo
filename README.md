@@ -26,5 +26,7 @@ Me encantó hacer este proyecto, con la facilidad de firebase.
 
 ![LOLOGIN](https://i.postimg.cc/D0Sr1jvL/LOLOGIN.jpg)
 ![LOGIN](https://i.postimg.cc/3Nzg1XN6/LOGIN.jpg)
+
+Agregué la opción de publicar imágenes, pero debo pagar plan premium HAHAHA, igual fue un gusto hacer el proyecto.
 ![Captura](https://i.postimg.cc/Jnk6LzX9/Imagen-de-Whats-App-2025-04-22-a-las-19-35-50-849f2b02.jpg)
 
